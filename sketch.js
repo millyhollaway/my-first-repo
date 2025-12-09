@@ -7,4 +7,4 @@ function draw() {
 
 }
 
-//make a rectangle and circle 
+//make a rectangle and circle please
